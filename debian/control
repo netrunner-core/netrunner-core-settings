@@ -1,5 +1,5 @@
 Source: netrunner-core-settings
-Section: unknown
+Section: kde
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
 Build-Depends: debhelper (>= 9)
@@ -7,7 +7,7 @@ Standards-Version: 3.9.8
 Homepage: https://github.com/netrunner-core/netrunner-core-settings
 
 Package: netrunner-core-settings
-Architecture: any
+Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: netrunner desktop specific settings
  This package contains settings that are specific to Netrunner Desktop
