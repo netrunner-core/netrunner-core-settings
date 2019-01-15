@@ -1,2 +1,5 @@
 [KDE]
 LookAndFeelPackage=org.kde.netrunner-core.desktop
+
+[Icons]
+Theme=breeze
