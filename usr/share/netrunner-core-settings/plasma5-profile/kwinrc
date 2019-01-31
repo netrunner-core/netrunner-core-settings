@@ -1,3 +1,5 @@
 [org.kde.kdecoration2]
 CloseOnDoubleClickOnMenu=true
-library=org.kde.breeze 
+library=org.kde.breeze
+ButtonsOnLeft=MS
+ButtonsOnRight=IAX
